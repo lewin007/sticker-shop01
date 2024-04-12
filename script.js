@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const lightbox = document.querySelector('.lightbox');
     const lightboxContent = document.querySelector('.lightbox-content');
 
-    const totalImages = 99; // Change this to match the total number of images
+    const totalImages = 141; // Change this to match the total number of images
 
     // Generate thumbnails
     for (let i = 1; i <= totalImages; i++) {
